@@ -1,0 +1,82 @@
+/* Styles for Train Scheduler */
+
+body {
+	margin: 0 auto;
+	width: 920px;
+	/*overflow: hidden;*/
+	font-family: 'Droid Sans', sans-serif;
+}
+
+h1 {
+	font-size: 50px;
+	color: white;
+	margin-bottom: 25px;
+	font-weight: 800;
+	padding: 30px;
+	background-color: #7cf4dc;
+	text-align: center;
+	text-shadow: 2px 2px #858687;
+}
+
+h2 {
+	font-size: 20px;
+	color: white;
+	font-weight: 600;
+	padding: 5px;
+	background-color: #4ca0ef;
+}
+
+h3 {
+	font-size: 15px;
+	font-weight: 600;
+
+}
+
+p {
+	font-size: 13px;
+}
+
+.container {
+	width: 900px;
+}
+
+.glyphicon.glyphicon-search {
+
+}
+
+.form-control {
+	width: 100%;
+	margin-top: 3px;
+}
+
+.row {
+	padding-top: 10px;
+}
+
+#scheduleForm {
+	border-color: #cecaca;
+	border-radius: 1px;
+	border: solid;
+	padding: 5px;
+}
+
+#resultsContainer {
+	border-color: #cecaca;
+	border-radius: 1px;
+	border: solid;
+	padding: 5px;
+	padding-bottom: 40px;
+}
+
+#submitBtn {
+	color: white;
+	background-color: #84c9e0;
+	font-weight: 700;
+}
+
+#resetBtn {
+	color: white;
+	background-color: #84c9e0;
+	font-weight: 700;
+}
+
